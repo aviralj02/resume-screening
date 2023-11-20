@@ -1,0 +1,2 @@
+# Resume Screening App
+The Resume Screening App automates the resume screening process using natural language processing and machine learning. It employs data preprocessing, TF-IDF feature extraction, and a classification model to categorize resumes based on predefined criteria. The user-friendly interface is built with Streamlit.
